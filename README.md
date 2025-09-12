@@ -1,4 +1,4 @@
-# 0vetd0se-CFW
+# 0verd0se CFW
 
 ## TESTED ON
 
