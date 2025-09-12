@@ -1,1 +1,9 @@
 # 0vetd0se-CFW
+
+## TESTED ON
+
+* CECH-2004A
+* CECH2004B
+* CECH-2104B
+* CECHL
+* CECHH
